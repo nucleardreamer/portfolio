@@ -25,7 +25,8 @@ _"Accepting the Terms & Conditions is not optional"_
 ![VOID MART: Your receipt](./img/7-1500.png "VOID MART: Your receipt")
 
 ![VOID MART: Customer feedback room](./img/8-1500.png "VOID MART: Customer feedback room")  
-Once finished with your purchase, customers were _immediately_ ushered into the "Customer Feedback" room to fill out a seemingly generic [NPS-like](https://en.wikipedia.org/wiki/Net_promoter_score) satisfaction card. The most important ominous question being "How do you feel right now, physically or mentally?"  
+Once finished with your purchase, customers were _immediately_ ushered into the "Customer Feedback" room to fill out a seemingly generic [NPS-like](https://en.wikipedia.org/wiki/Net_promoter_score) satisfaction card. The most important ominous question being "How do you feel right now, physically or mentally?"
+
 ![VOID MART: Customer feedback form](./img/9-1500.png "VOID MART: Customer feedback form")
 
 ![VOID MART: Your transaction is now complete](./img/10-1500.png "VOID MART: Your transaction is now complete")
